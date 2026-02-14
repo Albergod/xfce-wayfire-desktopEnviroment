@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Wayfire XFCE Guard
+Exec=/home/trevaldev/.local/bin/wayfire-xfce-guard.sh
+OnlyShowIn=XFCE;
+NoDisplay=true

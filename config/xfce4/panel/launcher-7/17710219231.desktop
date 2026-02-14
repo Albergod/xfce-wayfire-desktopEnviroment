@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Ardour (X11)
+Comment=Ardour Digital Audio Workstation (XWayland)
+Exec=env GDK_BACKEND=x11 ardour8
+Icon=ardour8
+Terminal=false
+MimeType=application/x-ardour;
+Type=Application
+Categories=AudioVideo;Audio;AudioEditing;X-Recorders;X-Multitrack;X-Jack;
+StartupWMClass=Ardour
+X-XFCE-Source=file:///home/trevaldev/.local/share/applications/ardour8-x11.desktop

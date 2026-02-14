@@ -1,0 +1,14 @@
+[Unit]
+Description=Cierre limpio de Brave Browser antes de apagar
+DefaultDependencies=no
+Before=shutdown.target reboot.target halt.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/bin/true
+ExecStop=/home/trevaldev/.local/bin/clean-shutdown-brave.sh
+TimeoutStopSec=15
+
+[Install]
+WantedBy=default.target
