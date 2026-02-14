@@ -1,4 +1,3 @@
-bibata-cursor-theme
 blueman
 brightnessctl
 cliphist
@@ -18,9 +17,7 @@ gvfs-google
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
-lightdm-settings
-lightdm-slick-greeter
-manjaro-pipewire
+lightdm
 mesa-utils
 mousepad
 network-manager-applet
@@ -29,14 +26,19 @@ noto-fonts-cjk
 noto-fonts-emoji
 nwg-look
 pavucontrol
+pipewire
+pipewire-alsa
 pipewire-jack
+pipewire-pulse
 playerctl
+polkit-gnome
 qt5ct
 qt6ct-kde
 ristretto
 slurp
 swww
 system-config-printer
+thunar
 thunar-archive-plugin
 tumbler
 udiskie
@@ -48,6 +50,7 @@ wayfire
 wayfire-plugins-extra
 wcm
 wev
+wireplumber
 wl-clipboard
 xdg-desktop-portal-gtk
 xdg-user-dirs-gtk

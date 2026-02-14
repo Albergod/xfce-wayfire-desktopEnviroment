@@ -1,1 +1,4 @@
+bibata-cursor-theme
+lightdm-settings
+lightdm-slick-greeter
 waypaper-git
